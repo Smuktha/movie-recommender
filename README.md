@@ -92,16 +92,12 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 This project is for educational purposes only. All movie data is for demonstration.
 
-
-
-
-
 ### ✅ To Finish:
 
 1. Save the above as `README.md`
 2. Add to GitHub:
-   bash
+```  bash
    git add README.md
    git commit -m "Add README"
    git push
-````
+
