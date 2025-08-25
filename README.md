@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender  
+# 🎬 Movie Recommender   
  
 A simple, genre-based movie recommendation system built with **Flask**, **Python**, and **Bootstrap**. Users can enter genres like `comedy`, `drama`, or `action` to receive movie suggestions based on their preferences.
 
